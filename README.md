@@ -9,7 +9,7 @@ It covers positive and negative test scenarios with response validations.
 
 ## Tested Endpoints
 - GET /products
-- GET /products/{id} (invalid ID)
+- GET /products/9999 (invalid ID)
 
 ## Testing Scope
 - Status code validation
